@@ -1,0 +1,19 @@
+body{
+   background-size:cover; 
+}
+
+#a_div{
+    background-color:orange;
+    padding:15;
+    text-align:center;
+}
+
+h1{
+    color:white;
+}
+
+canvas{
+    border:5px solid;
+    border-radius: 20px;
+    border-color:white;
+}
